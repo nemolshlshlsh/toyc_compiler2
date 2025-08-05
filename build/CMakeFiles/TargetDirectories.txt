@@ -1,0 +1,9 @@
+D:/toyc-compiler/build/CMakeFiles/compiler.dir
+D:/toyc-compiler/build/CMakeFiles/toyc.dir
+D:/toyc-compiler/build/CMakeFiles/quick_test.dir
+D:/toyc-compiler/build/CMakeFiles/edit_cache.dir
+D:/toyc-compiler/build/CMakeFiles/rebuild_cache.dir
+D:/toyc-compiler/build/CMakeFiles/list_install_components.dir
+D:/toyc-compiler/build/CMakeFiles/install.dir
+D:/toyc-compiler/build/CMakeFiles/install/local.dir
+D:/toyc-compiler/build/CMakeFiles/install/strip.dir
